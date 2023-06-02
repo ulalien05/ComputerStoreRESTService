@@ -1,0 +1,3 @@
+2023-06-01 15:39:25 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "COMPUTER_MONITOR" not found (this database is empty); SQL statement:
+select c1_0.id,c1_0.diagonal,c1_0.manufacturer,c1_0.price,c1_0.serial_number,c1_0.stock_quantity from computer_monitor c1_0 [42104-214]
