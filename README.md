@@ -1,7 +1,7 @@
 # EasyBotTest
 test assignment for EasyBot
 
-Инструкции на русском языка прилагаются ниже.
+Инструкции на русском языке прилагаются ниже.
 
 The application represents a computer store service operating with stock items data via in-memory database (H2).
 When starting the application the embedded database is initialized with 4 tables corresponding to the goods categories and the tables get filled with test data.
